@@ -1,0 +1,52 @@
+#card {
+    width: 494px;
+    background-color: aquamarine;
+    border: 4px solid darkblue;
+    margin: 10px;
+}
+
+body {
+    margin-left: 20px;
+}
+
+.card {
+    width: 500px;
+    background-color: beige;
+    border: 1px solid darkgray;
+    margin: 10px;
+}
+
+.innercard {
+    padding: 10px;
+
+}
+
+.header {
+    color: white;
+    text-align: center;
+    font-size: x-large;
+    padding: 1% 0;
+    border: 1px solid gray;
+    user-select: none;
+}
+
+.green {
+    background-color: green;
+}
+
+.yellow {
+    background-color: rgb(255, 179, 0);
+}
+
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.dark {
+    background-color: darkslategrey;
+}
+
